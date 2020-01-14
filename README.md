@@ -11,4 +11,4 @@ This is the process that "run_analysis.R" follows to get the tidy data of the HA
 7. Groups the dataset by subject and activity
 8. Computes the mean of each variable for each subject and each activity.  
 
-The script returns a file called "tidyDF.txt" with the tidy dataset.
+The script returns a file called "tidyDF.txt" that contains the tidy data.
